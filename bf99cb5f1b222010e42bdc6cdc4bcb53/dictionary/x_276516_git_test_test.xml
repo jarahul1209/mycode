@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test" max_length="40" name="x_276516_git_test_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="4000" name="test" type="journal"/>
+    </element>
+</database>
