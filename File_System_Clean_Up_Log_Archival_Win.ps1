@@ -3,7 +3,7 @@
 ### Script Purpose :Shell script to Archive log files                    ###
 ### Script Name:File_System_Clean_Up_Log_Archival_Win.ps1                ###
 ### OS Supports: Windows                                                 ###
-### Version : 1.0                                                         ###
+### Version : 1.0                                                        ###
 ############################################################################
 
 
