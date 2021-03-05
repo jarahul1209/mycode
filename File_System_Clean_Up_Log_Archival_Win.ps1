@@ -1,5 +1,5 @@
 ############################################################################
-### Author: Rahul Jain                                                    ###
+### Author: Rahul Jain                                                   ###
 ### Script Purpose :Shell script to Archive log files                    ###
 ### Script Name:File_System_Clean_Up_Log_Archival_Win.ps1                ###
 ### OS Supports: Windows                                                 ###
@@ -7,7 +7,7 @@
 ############################################################################
 
 
-### Remove-Item –path C:\Temp\* –recurse
+Remove-Item –path C:\Temp\* –recurse
 
 $returnvalue = 0
 $Temp = $env:TEMP
