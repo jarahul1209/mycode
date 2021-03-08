@@ -7,7 +7,7 @@
 ############################################################################
 
 
-##Remove-Item –path C:\Temp\* –recurse
+Remove-Item –path C:\Temp\* –recurse
 
 $returnvalue = 0
 $Temp = $env:TEMP
